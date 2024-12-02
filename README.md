@@ -1,1 +1,1 @@
-# Customer-Review-System_Project
+# Online Book Store Application_Project
